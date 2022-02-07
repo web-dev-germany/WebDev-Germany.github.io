@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2? family=Festlich&display=swap');
+
+
+html,
 body {
     background-color: aquamarine;
+    font-family: 'Festive', cursive;
+    background-image: url(http://hintergrundbild.org/wallpaper/full/0/4/2/76914-farbverlauf-hintergrundbilder-2560x2048-samsung-galaxy.jpg);
 }
 
 #Main-Überschrift {
