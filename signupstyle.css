@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2? family=Festlich&display=swap');
+
+
+html,
+body {
+    background-color: aquamarine;
+    font-family: 'Festive', cursive;
+    background-image: url(https://eskipaper.com/images/amazing-sunny-day-wallpaper-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
