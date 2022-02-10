@@ -7,6 +7,7 @@ body {
     font-family: 'Festive', cursive;
     background-image: url(https://eskipaper.com/images/amazing-sunny-day-wallpaper-1.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
 
 #Main-Überschrift {
     color: black;
