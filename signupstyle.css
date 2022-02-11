@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2? family=Festlich&display=swap');
 
 
-html {
+html,
+body {
     background-color: aquamarine;
     font-family: 'Festive', cursive;
     background-image: url(https://www.wallpapertip.com/wmimgs/9-97325_8k-hd-wallpapers.jpg);
