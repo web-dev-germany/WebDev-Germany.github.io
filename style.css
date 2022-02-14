@@ -15,7 +15,7 @@ body {
     font-family: "Roboto", "Verdana", "Calibri", sans-serif;
 }
 
-#mainpart {
+#mainpart, #divcontact {
     background: white;
     width: 50%;
     margin: 0px auto;
