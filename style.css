@@ -7,7 +7,7 @@ html,
 /* Unser Hintergrundbild(wallpaper) blau mit Formen */
 
 body {
-    background-color: lightcyan;
+    background-color: orange;
     background-image: url(http://hintergrundbild.org/wallpaper/full/f/3/c/23784-new-orange-wallpapers-2560x1440.jpg);
     background-size: cover;
     background-repeat: no-repeat;
