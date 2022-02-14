@@ -24,6 +24,10 @@ body {
 
 }
 
+#contactlink {
+    color: black;
+}
+
 /* Hauptüberschrift (fett, groß, unterstrichen) */
 
 #Main-Überschrift {
