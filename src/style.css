@@ -1,0 +1,89 @@
+/* Hintergrund Überschrift */
+
+@import url('http://hintergrundbild.org/wallpaper/full/f/3/c/23784-new-orange-wallpapers-2560x1440.jpg');
+
+html,
+
+/* Unser Hintergrundbild(wallpaper) blau mit Formen */
+
+body {
+    background-color: lightcyan;
+    background-image: url(http://hintergrundbild.org/wallpaper/full/f/3/c/23784-new-orange-wallpapers-2560x1440.jpg);
+    margin: 0;
+    font-family: "Roboto", "Verdana", "Calibri", sans-serif;
+}
+
+div {
+    background: white;
+    width: 50%;
+    margin: 0px auto;
+    padding: 1,5% 1%;
+    box-shadow: 2px 2px;
+
+}
+
+/* Hauptüberschrift (fett, groß, unterstrichen) */
+
+#Main-Überschrift {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    font-size: xx-large;
+    margin-top: 0;
+}
+
+h2 {
+    color: blue;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: underline;
+}
+
+#contact {
+    font-size: x-large;
+    text-align: right;
+}
+
+#one {
+    text-align: center;
+}
+
+#two {
+    text-align: center;
+}
+
+#three {
+    text-align: center;
+}
+
+#four {
+    text-align: center;
+}
+
+#five {
+    font-size: large;
+    color: darkmagenta;
+}
+
+#seven {
+    font-size: larger;
+    color: crimson;
+}
+
+#eight {
+    font-size: large;
+    color: crimson;
+}
+
+#nine {
+    text-align: center;
+    font-size: larger;
+}
+
+h3 {
+    font-size: larger;
+}
+
+button {
+    color: dodgerblue;
+}
